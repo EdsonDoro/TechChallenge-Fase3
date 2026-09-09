@@ -442,9 +442,6 @@ TechChallenge-Fase3/
 │   ├── silver/
 │   └── gold/
 │
-├── notebooks/
-│   └── TechChallenge_Fase3_Notebook_Gold_Entrega_v6.ipynb
-│
 ├── src/
 │   ├── ingestion/
 │   ├── transformation/
@@ -462,6 +459,7 @@ TechChallenge-Fase3/
 ├── images/
 ├── tests/
 │
+├── fase3.ipynb
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -506,7 +504,7 @@ jupyter notebook
 Executar:
 
 ```text
-notebooks/TechChallenge_Fase3_Notebook_Gold_Entrega_v6.ipynb
+fase3.ipynb
 ```
 
 O notebook procura automaticamente os arquivos da Gold em:
