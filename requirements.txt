@@ -1,6 +1,28 @@
-pandas
-faker
-pyarrow
-fastparquet
-pytest
-matplotlib
+# Data manipulation
+pandas>=2.2
+numpy>=1.26
+
+# Parquet / data I/O
+pyarrow>=16
+fastparquet>=2024.5
+
+# Machine Learning
+scikit-learn>=1.6
+joblib>=1.4
+
+# Visualization
+matplotlib>=3.9
+
+# Explainability
+shap>=0.46
+
+# Notebook / execution
+jupyter>=1.1
+notebook>=7.2
+ipykernel>=6.29
+
+# Tests
+pytest>=8.0
+
+# Existing Fase 2 components
+faker>=25.0
