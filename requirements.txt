@@ -3,3 +3,4 @@ faker
 pyarrow
 fastparquet
 pytest
+matplotlib
