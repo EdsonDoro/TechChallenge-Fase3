@@ -411,7 +411,6 @@ reports/
 ├── shap_importance.csv
 ├── ranking_risco_municipal.csv
 ├── municipios_prioritarios.csv
-├── risco_por_uf.csv
 ├── clusters_municipais.csv
 └── executive_summary.json
 
