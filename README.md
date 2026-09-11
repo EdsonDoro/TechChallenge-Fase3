@@ -416,7 +416,6 @@ reports/
 
 images/
 ├── 01_distribuicao_target.png
-├── 02_missing.png
 ├── 03_correlacoes_target.png
 ├── 04_matriz_confusao.png
 ├── 05_roc_auc.png
