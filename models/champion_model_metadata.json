@@ -1,0 +1,51 @@
+{
+  "fonte": "f:\\FIAP\\TechChallenge-Fase3\\data\\gold\\gold_dataset_ia_municipio.parquet",
+  "target": "target_atingiu_meta",
+  "estrategia_temporal": false,
+  "split_temporal": false,
+  "modelo": "logistic_regression",
+  "metricas_teste": {
+    "accuracy": 0.8099331423113658,
+    "balanced_accuracy": 0.808282208588957,
+    "precision": 0.8143607705779334,
+    "recall": 0.8333333333333334,
+    "f1": 0.8237378210806023,
+    "roc_auc": 0.898681384729277,
+    "pr_auc": 0.9205270032140102
+  },
+  "colunas_removidas": [
+    "ano",
+    "ano_meta",
+    "camada_origem",
+    "classificacao_risco",
+    "data_ingestao",
+    "data_processamento",
+    "data_processamento_gold",
+    "gap_meta",
+    "id_municipio",
+    "meta_alfabetizacao",
+    "origem",
+    "rede",
+    "resultado_alfabetizacao",
+    "serie",
+    "status_meta",
+    "status_validacao"
+  ],
+  "features_numericas": [
+    "taxa_alfabetizacao",
+    "media_portugues",
+    "proporcao_aluno_nivel_0",
+    "proporcao_aluno_nivel_1",
+    "proporcao_aluno_nivel_2",
+    "proporcao_aluno_nivel_3",
+    "proporcao_aluno_nivel_4",
+    "proporcao_aluno_nivel_5",
+    "proporcao_aluno_nivel_6",
+    "proporcao_aluno_nivel_7",
+    "proporcao_aluno_nivel_8",
+    "taxa_alfabetizacao_meta_base"
+  ],
+  "features_categoricas": [],
+  "unidade_observacional": "municipio/ano",
+  "limitacao_granularidade": "A Gold disponível é agregada. Não foi fabricado target individual."
+}
