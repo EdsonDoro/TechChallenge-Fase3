@@ -457,7 +457,9 @@ TechChallenge-Fase3/
 ├── images/
 ├── tests/
 │
-├── fase3.ipynb
+├── Apresentacao_Executiva_TechChallenge_Fase3_-_Grupo106.pdf
+├── Apresentacao_Executiva_TechChallenge_Fase3_-_Grupo106.pptx
+├── fase3.ipynb Apresentacao_Executiva_TechChallenge_Fase3_-_Grupo106.pdf
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -604,7 +606,7 @@ O principal produto da solução é transformar dados consolidados em **evidênc
 
 ## 23. Video de Apresentação
 
-<a href="https://youtu.be/" target="_blank">Assista a apresentação</a>
+<a href="https://youtu.be/bEo7R4DMWG0" target="_blank">Assista a apresentação</a>
 
 ---
 
